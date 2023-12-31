@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: pradatta17/devproject2
+        image: pradatta17/devopsproject2
         ports:
         - containerPort: 80
